@@ -91,4 +91,7 @@
 // const x = array.filter((item) => item % 2 === 0);
 // console.log(x);
 
-const array = [15, 28, 43, 9, 72, 31, 6, 55, 12, 89];
+// const array = [15, 28, 43, 9, 72, 31, 6, 55, 12, 89];
+
+// const sum = array.reduce((previous, current) => previous + current);
+// console.log(sum);
